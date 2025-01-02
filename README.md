@@ -28,8 +28,8 @@ This project demonstrates a machine learning model that predicts salaries based 
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/project.git
-   cd project
+   git clone https://github.com/Alexlozano1023/alexlozano1023.github.io.git
+   cd alexlozano1023.github.io
 
 ## Contact
 
