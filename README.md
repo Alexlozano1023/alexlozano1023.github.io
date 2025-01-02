@@ -23,7 +23,9 @@ This project demonstrates a machine learning model that predicts salaries based 
 ## Files
 - **`download_dataset.py`**: Python script for data preprocessing, model training, and visualization.
 - **`job_placement.csv`**: Dataset used for the model.
-- **`visualization/gpa_vs_salary_plot.png`**: ![GPA vs Salary Plot](/Users/alexlozano/Downloads/alexlozano1023.png)
+- **`visualization/gpa_vs_salary_plot.png`**:
+
+![alexlozano1023](https://github.com/user-attachments/assets/616fc5f0-7f51-4847-8a0e-9fe3ef53dca0)
 
 ## How to Run
 1. Clone the repository:
